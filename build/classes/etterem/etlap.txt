@@ -1,0 +1,24 @@
+Sima hamburger
+700
+Sajtos hamburger
+800
+Dupla húsos hamburger
+1000
+Dupla húsos sajtos hamburger
+1200
+Gyros pitában
+1200
+Gyros tál
+1350
+Margherita pizza
+1350
+Sonkás pizza
+1500
+Sonkás kukoricás pizza
+1600
+Sonkás gombás pizza
+1600
+Sonka gomba kukorica pizza
+1700
+Húsimádó pizza
+1800
